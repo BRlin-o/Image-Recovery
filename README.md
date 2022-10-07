@@ -1,4 +1,4 @@
-# Image Recovery Technuque
+# Data Hiding
 ## Image Authentication
 - Probability-based reversible image authentication scheme for image demosaicking
 ## Image Recovery
